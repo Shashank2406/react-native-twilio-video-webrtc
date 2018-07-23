@@ -92,7 +92,7 @@ public class CustomTwilioVideoView extends View implements LifecycleEventListene
             Events.ON_PARTICIPANT_ADDED_VIDEO_TRACK,
             Events.ON_PARTICIPANT_REMOVED_VIDEO_TRACK,
             Events.ON_PARTICIPANT_ENABLED_VIDEO_TRACK,
-            Events.ON_PARTICIPANT_DISABLED_VIDEO_TRACK
+            Events.ON_PARTICIPANT_DISABLED_VIDEO_TRACK,
             Events.ON_PARTICIPANT_ENABLED_AUDIO_TRACK,
             Events.ON_PARTICIPANT_DISABLED_AUDIO_TRACK,
             Events.ON_STATS_RECEIVED})
